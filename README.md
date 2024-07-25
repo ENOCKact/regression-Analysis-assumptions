@@ -1,4 +1,4 @@
-# regression-assumptions
+# regression Analysis-Assumptions
 How to visualize regression assumptions in a single plot
 
 We normally make assumptions When using `linear regression` to model relationship between response variable and one or more dependent variable.They are supposed to be meet before drawing any inference about regression parameters.Some of the assumptions are as follows:
